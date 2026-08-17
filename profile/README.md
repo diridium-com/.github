@@ -4,7 +4,9 @@ Healthcare data integration — connecting EHRs, HIEs, and clinical applications
 
 ### Open Source
 
-We build and maintain open-source plugins for the [Open Integration Engine](https://openintegrationengine.org):
+We build and maintain open-source tools for the [Open Integration Engine](https://openintegrationengine.org) ecosystem.
+
+#### Plugins
 
 - **[oie-cache-manager](https://github.com/diridium-com/oie-cache-manager)** — Fast in-memory key-value lookups against external databases
 - **[simple-channel-history](https://github.com/diridium-com/simple-channel-history)** — Version history tracking for channels and code templates
@@ -12,6 +14,8 @@ We build and maintain open-source plugins for the [Open Integration Engine](http
 - **[role-based-access-control](https://github.com/diridium-com/role-based-access-control)** — Dynamic roles with per-permission grants and channel-level restrictions
 - **[oie-ssh-tunnel-manager](https://github.com/diridium-com/oie-ssh-tunnel-manager)** — Managed, self-healing SSH tunnels to reach any TCP service across network, firewall, and NAT boundaries
 
-We also build **[launcher](https://github.com/diridium-com/launcher)** — a desktop app for launching and managing Mirth Connect, Open Integration Engine, and BridgeLink administrator clients.
+#### Other Tools
+
+- **[launcher](https://github.com/diridium-com/launcher)** — Desktop app for launching and managing Mirth Connect, Open Integration Engine, and BridgeLink administrator clients
 
 [diridium.com](https://diridium.com)
