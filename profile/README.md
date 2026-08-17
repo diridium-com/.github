@@ -12,4 +12,6 @@ We build and maintain open-source plugins for the [Open Integration Engine](http
 - **[role-based-access-control](https://github.com/diridium-com/role-based-access-control)** — Dynamic roles with per-permission grants and channel-level restrictions
 - **[oie-ssh-tunnel-manager](https://github.com/diridium-com/oie-ssh-tunnel-manager)** — Managed, self-healing SSH tunnels to reach any TCP service across network, firewall, and NAT boundaries
 
+We also build **[launcher](https://github.com/diridium-com/launcher)** — a desktop app for launching and managing Mirth Connect, Open Integration Engine, and BridgeLink administrator clients.
+
 [diridium.com](https://diridium.com)
