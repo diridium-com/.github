@@ -13,6 +13,7 @@ We build and maintain open-source tools for the [Open Integration Engine](https:
 - **[Source Code Search](https://github.com/diridium-com/oie-source-code-search)** - Search all channels, scripts, connectors, etc for strings.
 - **[role-based-access-control](https://github.com/diridium-com/role-based-access-control)** — Dynamic roles with per-permission grants and channel-level restrictions
 - **[oie-ssh-tunnel-manager](https://github.com/diridium-com/oie-ssh-tunnel-manager)** — Managed, self-healing SSH tunnels to reach any TCP service across network, firewall, and NAT boundaries
+- **[oie-log-viewer](https://github.com/diridium-com/oie-log-viewer)** - Browse, search and download the engine's mirth.log and its archives from the Administrator, without shell access to the host
 
 #### Other Tools
 
